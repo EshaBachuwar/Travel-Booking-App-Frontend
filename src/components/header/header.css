@@ -1,0 +1,24 @@
+.headerList:active{
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.headerList:hover{
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.headerSearch{
+    bottom: -8%;
+    right:7%
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.dateRange{
+    left:29rem
+}
+.options{
+    top:50px
+}
+.nsvd{
+    background-color: rgba(70, 12, 186, 0.499);
+}
